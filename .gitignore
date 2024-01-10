@@ -1,0 +1,4 @@
+.pio
+.idea
+*.private.txt
+/include/WifiCredentials.h
